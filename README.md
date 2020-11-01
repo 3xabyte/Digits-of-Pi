@@ -9,6 +9,6 @@ To view the code for this project:
 There are some comments and a Javadoc available to help make the code a bit more readable.
 
 ### Java Conditional Operators
-a OR b  = a || b
-a AND b = a && b
-NOT a   = !a
+a OR b  = a || b<br>
+a AND b = a && b<br>
+NOT a   = !a<br>
